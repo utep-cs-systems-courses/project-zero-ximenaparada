@@ -28,6 +28,6 @@ void print_triangle(int leftCol, int size)
 
 void print_arrow()
 {
-  print_triange(3, 5);
-  print_rectangle(6, 5);
+  print_triangle(3, 5);
+  print_square(6, 5);
 }
